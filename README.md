@@ -5,15 +5,15 @@
 <div align="center"> <img src="https://github.com/user-attachments/assets/674d8e9b-a453-44e0-b28d-45d8dc509804" width="700"/> </div>
 
 # Description
-Case 1: Ghi đến khi đầy
+Case 1: Write until full
 
 <img width="984" height="269" alt="image" src="https://github.com/user-attachments/assets/13bd407e-805f-4c6b-9608-44908a829722" />
 
-Case 2: Đọc đến khi trống
+Case 2: Read until empty
 
 <img width="1074" height="326" alt="image" src="https://github.com/user-attachments/assets/1d21344f-f4fd-49b7-8908-b4b05062e83d" />
 
-Case 3: Đọc ghi đồng thời
+Case 3: Simultaneous read and write
 
 <img width="1106" height="330" alt="image" src="https://github.com/user-attachments/assets/952ddb4f-e75b-4019-9937-65958598f022" />
 
