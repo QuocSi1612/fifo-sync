@@ -1,5 +1,5 @@
 # fifo-sync
-
+`fifo-sync` is a synchronous FIFO (First-In-First-Out) buffer designed for digital systems. It supports simultaneous read and write operations synchronized to a common clock. The module includes status flags (`full`, `empty`) and provides reliable data flow between producer and consumer logic. Features: - Parameterizable data width and depth - Synchronous read/write interface - Full and empty indicators
 # Architecture Diagram
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/674d8e9b-a453-44e0-b28d-45d8dc509804" width="700"/> </div>
